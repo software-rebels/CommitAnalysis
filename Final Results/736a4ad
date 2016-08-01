@@ -1,0 +1,53 @@
+Commit:736a4ad
+Date:Mon Jul 22 18:32:37 2013 -0400
+The target Common/Core/vtkDataArraySelection.h has the following dependencies: 
+t4515_lib_libvtkCommonMisc_6_1_so : 0.3168816996849032
+t4548_lib_libvtkCommonSystem_6_1_so : 0.3619900917104456
+t4455_lib_libvtkCommonMath_6_1_so : 0.401409110040692
+t4083_Common_Core_CMakeFiles_vtkCommonCore_dir_vtkDataArraySelection_cxx_o : 0.471922123113739
+t4589_lib_libvtkCommonTransforms_6_1_so : 0.507027528438061
+t5446_lib_libvtkCommonExecutionModel_6_1_so : 1.659743369844069
+t3894_lib_libvtkCommonCore_6_1_so : 1.7161275323579965
+t6005_lib_libvtkCommonComputationalGeometry_6_1_so : 1.8301704351954888
+t6684_lib_libvtkImagingFourier_6_1_so : 2.2221416053458944
+t7478_lib_libvtkIOCore_6_1_so : 2.73492389813392
+t6509_lib_libvtkImagingCore_6_1_so : 2.7949272008251476
+t4666_lib_libvtkCommonDataModel_6_1_so : 3.366279554021738
+t6782_lib_libvtkFiltersStatistics_6_1_so : 3.5835804031555805
+t4516_lib_libvtkCommonMisc_6_1_so_1 : 3.9266282278800753
+t8250_lib_libvtkIOXMLParser_6_1_so : 3.9287870914847454
+t5692_lib_libvtkFiltersCore_6_1_so : 4.386970182808133
+t4549_lib_libvtkCommonSystem_6_1_so_1 : 4.988002157892838
+t7155_lib_libvtkFiltersGeometry_6_1_so : 6.397164586746226
+t4456_lib_libvtkCommonMath_6_1_so_1 : 6.507059318700263
+t5424_lib_libvtkCommonColor_6_1_so : 6.507084411814749
+t8079_lib_libvtkIOImage_6_1_so : 7.002423762134846
+t5425_lib_libvtkCommonColor_6_1_so_1 : 7.478922837429116
+t4590_lib_libvtkCommonTransforms_6_1_so_1 : 8.400647727954377
+t6090_lib_libvtkFiltersGeneral_6_1_so : 8.515398195201069
+t6855_lib_libvtkFiltersExtraction_6_1_so : 9.40921192153923
+t7252_lib_libvtkFiltersSources_6_1_so : 10.38252468722858
+t8251_lib_libvtkIOXMLParser_6_1_so_1 : 13.336895617004986
+t6006_lib_libvtkCommonComputationalGeometry_6_1_so_1 : 13.836697701609907
+t6685_lib_libvtkImagingFourier_6_1_so_1 : 14.626881920088667
+t7479_lib_libvtkIOCore_6_1_so_1 : 18.246521633886495
+t6783_lib_libvtkFiltersStatistics_6_1_so_1 : 20.197531783268122
+t7156_lib_libvtkFiltersGeometry_6_1_so_1 : 22.04881618851609
+t6510_lib_libvtkImagingCore_6_1_so_1 : 24.89343247835433
+t5447_lib_libvtkCommonExecutionModel_6_1_so_1 : 28.418698726476595
+t9343_lib_libvtkImagingHybrid_6_1_so : 28.73980898344411
+t8080_lib_libvtkIOImage_6_1_so_1 : 32.24670005710516
+t9344_lib_libvtkImagingHybrid_6_1_so_1 : 33.63506939228719
+t7253_lib_libvtkFiltersSources_6_1_so_1 : 36.11479301374793
+t5693_lib_libvtkFiltersCore_6_1_so_1 : 39.87736642642948
+t6856_lib_libvtkFiltersExtraction_6_1_so_1 : 43.572761983714024
+t3895_lib_libvtkCommonCore_6_1_so_1 : 44.220071501872845
+t6980_lib_libvtkInfovisCore_6_1_so : 51.151827827304786
+t8302_lib_libvtkRenderingCore_6_1_so : 57.918828751235765
+t6091_lib_libvtkFiltersGeneral_6_1_so_1 : 59.049869613184015
+t6981_lib_libvtkInfovisCore_6_1_so_1 : 60.00215038506445
+t4667_lib_libvtkCommonDataModel_6_1_so_1 : 71.89330767813297
+t8303_lib_libvtkRenderingCore_6_1_so_1 : 135.92665588526063
+t9249_lib_libvtkRenderingFreeType_6_1_so : 137.51716977359197
+t9250_lib_libvtkRenderingFreeType_6_1_so_1 : 161.60843502775526
+

@@ -1,0 +1,16 @@
+Commit:caf6bf1
+Date:Fri Nov 22 14:34:11 2013 -0500
+The target Rendering/Core/vtkDiscretizableColorTransferFunction.cxx has the following dependencies: 
+t7700_Rendering_Core_CMakeFiles_vtkRenderingCore_dir_vtkDiscretizableColorTransferFunction_cxx_o : 0.5483540446650337
+t7554_lib_libvtkRenderingCore_6_1_so : 56.06718131973967
+t8526_lib_libvtkRenderingFreeType_6_1_so : 76.394785297978
+t8527_lib_libvtkRenderingFreeType_6_1_so_1 : 89.69974740938588
+t7555_lib_libvtkRenderingCore_6_1_so_1 : 131.56983839938746
+
+The target Rendering/Core/vtkDiscretizableColorTransferFunction.h has the following dependencies: 
+t7700_Rendering_Core_CMakeFiles_vtkRenderingCore_dir_vtkDiscretizableColorTransferFunction_cxx_o : 0.5483540446650337
+t7554_lib_libvtkRenderingCore_6_1_so : 56.06718131973967
+t8526_lib_libvtkRenderingFreeType_6_1_so : 76.394785297978
+t8527_lib_libvtkRenderingFreeType_6_1_so_1 : 89.69974740938588
+t7555_lib_libvtkRenderingCore_6_1_so_1 : 131.56983839938746
+

@@ -1,0 +1,17 @@
+Commit:e51c5cd
+Date:Wed Jul 17 05:41:50 2013 -0400
+The target Filters/General/vtkBoxClipDataSet.cxx has the following dependencies: 
+t6242_Filters_General_CMakeFiles_vtkFiltersGeneral_dir_vtkBoxClipDataSet_cxx_o : 0.5131072989767327
+t6206_lib_libvtkFiltersGeneral_6_1_so : 8.49123601413911
+t6971_lib_libvtkFiltersExtraction_6_1_so : 9.374766749334484
+t7368_lib_libvtkFiltersSources_6_1_so : 10.326355225208234
+t7369_lib_libvtkFiltersSources_6_1_so_1 : 35.91654785367612
+t6972_lib_libvtkFiltersExtraction_6_1_so_1 : 43.41066705569168
+t7096_lib_libvtkInfovisCore_6_1_so : 50.98557855909748
+t8418_lib_libvtkRenderingCore_6_1_so : 55.63527324449135
+t6207_lib_libvtkFiltersGeneral_6_1_so_1 : 58.87931304098195
+t7097_lib_libvtkInfovisCore_6_1_so_1 : 59.806563010702924
+t9369_lib_libvtkRenderingFreeType_6_1_so : 130.54756816790106
+t8419_lib_libvtkRenderingCore_6_1_so_1 : 130.55358410468554
+t9370_lib_libvtkRenderingFreeType_6_1_so_1 : 153.4089037269424
+

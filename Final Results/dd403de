@@ -1,0 +1,12 @@
+Commit:dd403de
+Date:Tue Aug 27 15:49:04 2013 -0400
+The target Charts/Core/Testing/Cxx/TestLinePlot3D.cxx has the following dependencies: 
+t13498_Charts_Core_Testing_Cxx_CMakeFiles_vtkChartsCoreCxxTests_dir_TestLinePlot3D_cxx_o : 0.4792775551146755
+t13380_bin_vtkChartsCoreCxxTests : 53.14463308734408
+
+
+The target Charts/Core/Testing/Cxx/TestLinePlotDouble.cxx has the following dependencies: 
+t13492_Charts_Core_Testing_Cxx_CMakeFiles_vtkChartsCoreCxxTests_dir_TestLinePlotDouble_cxx_o : 0.37272615485955735
+t13380_bin_vtkChartsCoreCxxTests : 53.14463308734408
+
+

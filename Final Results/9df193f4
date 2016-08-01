@@ -1,0 +1,25 @@
+Commit:9df193f4
+Date:Mon May 27 13:44:16 2013 -0600
+The target IO/Image/vtkTIFFReader.h has the following dependencies: 
+t4403_IO_Image_CMakeFiles_vtkIOImage_dir_vtkTIFFReader_cxx_o : 0.5250635324512315
+t4345_IO_Image_CMakeFiles_vtkIOImage_dir_vtkImageReader2Factory_cxx_o : 1.1152204105755312
+t4297_lib_libvtkIOImage_6_1_so : 7.002608586090547
+t5561_lib_libvtkImagingHybrid_6_1_so : 28.745845779501717
+t4298_lib_libvtkIOImage_6_1_so_1 : 32.24756981689669
+t5562_lib_libvtkImagingHybrid_6_1_so_1 : 33.64217150529614
+t4520_lib_libvtkRenderingCore_6_1_so : 57.92171862243206
+t4521_lib_libvtkRenderingCore_6_1_so_1 : 135.9334555821931
+t5467_lib_libvtkRenderingFreeType_6_1_so : 137.51969684878586
+t5468_lib_libvtkRenderingFreeType_6_1_so_1 : 161.61140805739512
+
+The target IO/Image/vtkTIFFReader.cxx has the following dependencies: 
+t4403_IO_Image_CMakeFiles_vtkIOImage_dir_vtkTIFFReader_cxx_o : 0.5250635324512315
+t4297_lib_libvtkIOImage_6_1_so : 7.002608586090547
+t5561_lib_libvtkImagingHybrid_6_1_so : 28.745845779501717
+t4298_lib_libvtkIOImage_6_1_so_1 : 32.24756981689669
+t5562_lib_libvtkImagingHybrid_6_1_so_1 : 33.64217150529614
+t4520_lib_libvtkRenderingCore_6_1_so : 57.92171862243206
+t4521_lib_libvtkRenderingCore_6_1_so_1 : 135.9334555821931
+t5467_lib_libvtkRenderingFreeType_6_1_so : 137.51969684878586
+t5468_lib_libvtkRenderingFreeType_6_1_so_1 : 161.61140805739512
+

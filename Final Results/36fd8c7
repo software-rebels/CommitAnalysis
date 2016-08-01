@@ -1,0 +1,21 @@
+Commit:36fd8c7
+Date:Tue Jul 23 09:59:57 2013 -0400
+The target Filters/Core/vtkGlyph3D.cxx has the following dependencies: 
+t5934_Filters_Core_CMakeFiles_vtkFiltersCore_dir_vtkGlyph3D_cxx_o : 0.416850733570136
+t5812_lib_libvtkFiltersCore_6_1_so : 4.439040726009878
+t7275_lib_libvtkFiltersGeometry_6_1_so : 6.530754494410259
+t6210_lib_libvtkFiltersGeneral_6_1_so : 8.59161141185048
+t6975_lib_libvtkFiltersExtraction_6_1_so : 9.602121783115392
+t7372_lib_libvtkFiltersSources_6_1_so : 10.549054491419557
+t7276_lib_libvtkFiltersGeometry_6_1_so_1 : 22.520309980271502
+t7373_lib_libvtkFiltersSources_6_1_so_1 : 36.702545263833734
+t5813_lib_libvtkFiltersCore_6_1_so_1 : 40.36744212715179
+t6976_lib_libvtkFiltersExtraction_6_1_so_1 : 44.480573097013604
+t7513_lib_libvtkRenderingCore_6_1_so : 47.89177427323079
+t7100_lib_libvtkInfovisCore_6_1_so : 52.05509330300555
+t6211_lib_libvtkFiltersGeneral_6_1_so_1 : 59.58784526012103
+t7101_lib_libvtkInfovisCore_6_1_so_1 : 61.06481565059477
+t8485_lib_libvtkRenderingFreeType_6_1_so : 111.71380615224845
+t7514_lib_libvtkRenderingCore_6_1_so_1 : 112.33358652524892
+t8486_lib_libvtkRenderingFreeType_6_1_so_1 : 131.25153664970406
+

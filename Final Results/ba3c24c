@@ -1,0 +1,43 @@
+Commit:ba3c24c
+Date:Tue Jul 30 22:26:03 2013 -0600
+The target Common/DataModel/vtkPlane.cxx has the following dependencies: 
+t5175_Common_DataModel_CMakeFiles_vtkCommonDataModel_dir_vtkPlane_cxx_o : 0.35087294866375973
+t5446_lib_libvtkCommonExecutionModel_6_1_so : 1.6597380263997374
+t6005_lib_libvtkCommonComputationalGeometry_6_1_so : 1.830158221608444
+t6684_lib_libvtkImagingFourier_6_1_so : 2.2221250047671983
+t7478_lib_libvtkIOCore_6_1_so : 2.734908891961088
+t6509_lib_libvtkImagingCore_6_1_so : 2.7949159461955237
+t4666_lib_libvtkCommonDataModel_6_1_so : 3.3661979012454495
+t6782_lib_libvtkFiltersStatistics_6_1_so : 3.5835576603627675
+t8250_lib_libvtkIOXMLParser_6_1_so : 3.9287528273901113
+t5692_lib_libvtkFiltersCore_6_1_so : 4.386958928178507
+t7155_lib_libvtkFiltersGeometry_6_1_so : 6.3971313855888345
+t5424_lib_libvtkCommonColor_6_1_so : 6.5062312604554355
+t8079_lib_libvtkIOImage_6_1_so : 7.00239806406387
+t5425_lib_libvtkCommonColor_6_1_so_1 : 7.477919129947571
+t6090_lib_libvtkFiltersGeneral_6_1_so : 8.51537986436421
+t6855_lib_libvtkFiltersExtraction_6_1_so : 9.409169777905868
+t7252_lib_libvtkFiltersSources_6_1_so : 10.382482831817748
+t8251_lib_libvtkIOXMLParser_6_1_so_1 : 13.336774684906276
+t6006_lib_libvtkCommonComputationalGeometry_6_1_so_1 : 13.836597119128363
+t6685_lib_libvtkImagingFourier_6_1_so_1 : 14.626764739533167
+t7479_lib_libvtkIOCore_6_1_so_1 : 18.246415707960622
+t6783_lib_libvtkFiltersStatistics_6_1_so_1 : 20.197398002133927
+t7156_lib_libvtkFiltersGeometry_6_1_so_1 : 22.04869900796059
+t6510_lib_libvtkImagingCore_6_1_so_1 : 24.89332655242846
+t5447_lib_libvtkCommonExecutionModel_6_1_so_1 : 28.418598143995055
+t9343_lib_libvtkImagingHybrid_6_1_so : 28.739674781364712
+t8080_lib_libvtkIOImage_6_1_so_1 : 32.24657912500645
+t9344_lib_libvtkImagingHybrid_6_1_so_1 : 33.6349115074879
+t7253_lib_libvtkFiltersSources_6_1_so_1 : 36.11464528876853
+t5693_lib_libvtkFiltersCore_6_1_so_1 : 39.877260500503596
+t6856_lib_libvtkFiltersExtraction_6_1_so_1 : 43.57256366073349
+t6980_lib_libvtkInfovisCore_6_1_so : 51.15162343068297
+t8302_lib_libvtkRenderingCore_6_1_so : 57.92077384702703
+t6091_lib_libvtkFiltersGeneral_6_1_so_1 : 59.04974021904149
+t6981_lib_libvtkInfovisCore_6_1_so_1 : 60.00190991845055
+t4667_lib_libvtkCommonDataModel_6_1_so_1 : 71.89148249842769
+t8303_lib_libvtkRenderingCore_6_1_so_1 : 135.93123258124007
+t9249_lib_libvtkRenderingFreeType_6_1_so : 137.5177235309721
+t9250_lib_libvtkRenderingFreeType_6_1_so_1 : 161.60908650702598
+

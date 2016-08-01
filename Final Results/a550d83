@@ -1,0 +1,134 @@
+Commit:a550d83
+Date:Sun Nov 10 15:00:48 2013 -0500
+The target Interaction/Widgets/Testing/Cxx/TestPointWidget.cxx has the following dependencies: 
+t20819_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestPointWidget_cxx_o : 0.4648960830453889
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestFixedSizeHandleRepresentation3D.cxx has the following dependencies: 
+t20617_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestFixedSizeHandleRepresentation3D_cxx_o : 0.4688006720405277
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestLineWidget2.cxx has the following dependencies: 
+t20807_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestLineWidget2_cxx_o : 0.5292249063807585
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestPickingManagerSeedWidget.cxx has the following dependencies: 
+t20680_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestPickingManagerSeedWidget_cxx_o : 0.4364964008516468
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestOrientationMarkerWidget.cxx has the following dependencies: 
+t20668_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestOrientationMarkerWidget_cxx_o : 0.5885523850363898
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestCellCentersPointPlacer.cxx has the following dependencies: 
+t20590_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestCellCentersPointPlacer_cxx_o : 0.5993232010795112
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestSliderWidget.cxx has the following dependencies: 
+t20722_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestSliderWidget_cxx_o : 0.4523678895884265
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestAngleWidget2D.cxx has the following dependencies: 
+t20566_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestAngleWidget2D_cxx_o : 0.43032084251544317
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestDistanceWidget.cxx has the following dependencies: 
+t20611_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestDistanceWidget_cxx_o : 0.42976304238270036
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestSphereHandleWidget.cxx has the following dependencies: 
+t20834_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestSphereHandleWidget_cxx_o : 0.5036346836369809
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestLineWidget.cxx has the following dependencies: 
+t20810_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestLineWidget_cxx_o : 0.5698881630276166
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestSliderWidget2D.cxx has the following dependencies: 
+t20719_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestSliderWidget2D_cxx_o : 0.4509292833937362
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestScalarBarWidget.cxx has the following dependencies: 
+t20707_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestScalarBarWidget_cxx_o : 0.45766640480878845
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestAngleWidget3D.cxx has the following dependencies: 
+t20569_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestAngleWidget3D_cxx_o : 0.4628542569409138
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestImplicitPlaneWidget2.cxx has the following dependencies: 
+t20644_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestImplicitPlaneWidget2_cxx_o : 0.41433384679609636
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestImplicitPlaneWidget2LockNormalToCamera.cxx has the following dependencies: 
+t20650_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestImplicitPlaneWidget2LockNormalToCamera_cxx_o : 0.4178992147451492
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestImageTracerWidget.cxx has the following dependencies: 
+t20632_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestImageTracerWidget_cxx_o : 0.6551628461024535
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Rendering/OpenGL/Testing/Cxx/TestFollowerPicking.cxx could not be found.
+
+The target Interaction/Widgets/Testing/Cxx/BoxWidget2.cxx has the following dependencies: 
+t20551_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_BoxWidget2_cxx_o : 0.47626759559330584
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestDistanceWidget3D.cxx has the following dependencies: 
+t20608_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestDistanceWidget3D_cxx_o : 0.4545963195118734
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestPlaneWidget.cxx has the following dependencies: 
+t20816_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestPlaneWidget_cxx_o : 0.5035324466817528
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/BoxWidget.cxx has the following dependencies: 
+t20554_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_BoxWidget_cxx_o : 0.4149308522401639
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TerrainPolylineEditor.cxx has the following dependencies: 
+t20560_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TerrainPolylineEditor_cxx_o : 0.6311505330440486
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestSeedWidget.cxx has the following dependencies: 
+t20713_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestSeedWidget_cxx_o : 0.40967747589903386
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestDijkstraImageGeodesicPath.cxx has the following dependencies: 
+t20605_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestDijkstraImageGeodesicPath_cxx_o : 0.7599430994275385
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestImplicitPlaneWidget.cxx has the following dependencies: 
+t20653_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestImplicitPlaneWidget_cxx_o : 0.45697031772866853
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+
+The target Interaction/Widgets/Testing/Cxx/TestPolygonalSurfaceConstrainedDistanceWidget.cxx has the following dependencies: 
+t20828_Interaction_Widgets_Testing_Cxx_CMakeFiles_vtkInteractionWidgetsCxxTests_dir_TestPolygonalSurfaceConstrainedDistanceWidget_cxx_o : 0.5502216398069254
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+

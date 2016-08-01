@@ -1,0 +1,10 @@
+Commit:41b56d9
+Date:Wed Nov 20 15:06:36 2013 -0500
+The target Rendering/FreeType/vtkTextActor.h has the following dependencies: 
+t8554_Rendering_FreeType_CMakeFiles_vtkRenderingFreeType_dir_vtkTextActor_cxx_o : 0.5299776026505231
+t8561_Rendering_FreeType_CMakeFiles_vtkRenderingFreeType_dir_vtkScaledTextActor_cxx_o : 0.5354333631476668
+t8547_Rendering_FreeType_CMakeFiles_vtkRenderingFreeType_dir_vtkMathTextUtilities_cxx_o : 0.5931539777026258
+t8533_Rendering_FreeType_CMakeFiles_vtkRenderingFreeType_dir_vtkFreeTypeUtilities_cxx_o : 0.6555649433157767
+t8524_lib_libvtkRenderingFreeType_6_1_so : 76.43575406912242
+t8525_lib_libvtkRenderingFreeType_6_1_so_1 : 89.74794596367343
+

@@ -1,0 +1,13 @@
+Commit:5e49402
+Date:Wed Dec 11 17:00:11 2013 -0500
+The target IO/Infovis/vtkDelimitedTextReader.cxx has the following dependencies: 
+t10603_IO_Infovis_CMakeFiles_vtkIOInfovis_dir_vtkDelimitedTextReader_cxx_o : 0.45202780066394355
+t10591_lib_libvtkIOInfovis_7_1_so : 2.1061834075302337
+t10592_lib_libvtkIOInfovis_7_1_so_1 : 13.808353464919296
+t19551_bin_vtkIOInfovisCxxTests : 19.513487529394254
+t20496_bin_vtkInfovisLayoutCxxTests : 20.764672539541433
+t20416_bin_vtkInfovisCoreCxxTests : 24.211791898653985
+t13380_bin_vtkChartsCoreCxxTests : 53.14463308734408
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+

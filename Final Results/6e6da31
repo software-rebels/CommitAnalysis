@@ -1,0 +1,11 @@
+Commit:6e6da31
+Date:Sat Nov 9 22:37:22 2013 -0500
+The target IO/Core/vtkTextCodec.cxx has the following dependencies: 
+t8705_IO_Core_CMakeFiles_vtkIOCore_dir_vtkTextCodec_cxx_o : 0.3802116757729001
+t8640_lib_libvtkIOCore_6_1_so : 5.706470584961807
+t8641_lib_libvtkIOCore_6_1_so_1 : 19.611072652806378
+t9240_lib_libvtkIOImage_6_1_so : 20.83430234583113
+t9375_lib_libvtkImagingHybrid_6_1_so : 36.69346485268304
+t9376_lib_libvtkImagingHybrid_6_1_so_1 : 42.99231159139182
+t9241_lib_libvtkIOImage_6_1_so_1 : 48.668946696073256
+

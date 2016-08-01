@@ -1,0 +1,22 @@
+Commit:3978a87
+Date:Fri Dec 20 12:58:15 2013 -0500
+The target Filters/Geometry/vtkDataSetSurfaceFilter.h has the following dependencies: 
+t7361_Filters_Geometry_CMakeFiles_vtkFiltersGeometry_dir_vtkCompositeDataGeometryFilter_cxx_o : 0.5114265163610844
+t7733_Rendering_Core_CMakeFiles_vtkRenderingCore_dir_vtkDataSetMapper_cxx_o : 0.5681738790274207
+t7403_Filters_Geometry_CMakeFiles_vtkFiltersGeometry_dir_vtkDataSetSurfaceFilter_cxx_o : 0.8476625647634105
+t7358_lib_libvtkFiltersGeometry_6_1_so : 10.055711705043612
+t7359_lib_libvtkFiltersGeometry_6_1_so_1 : 23.30755695304379
+t7596_lib_libvtkRenderingCore_6_1_so : 56.29979924342076
+t8568_lib_libvtkRenderingFreeType_6_1_so : 76.6231615886568
+t8569_lib_libvtkRenderingFreeType_6_1_so_1 : 89.96842539841975
+t7597_lib_libvtkRenderingCore_6_1_so_1 : 132.11717469040178
+
+The target Filters/Geometry/vtkDataSetSurfaceFilter.cxx has the following dependencies: 
+t7403_Filters_Geometry_CMakeFiles_vtkFiltersGeometry_dir_vtkDataSetSurfaceFilter_cxx_o : 0.8476625647634105
+t7358_lib_libvtkFiltersGeometry_6_1_so : 10.055711705043612
+t7359_lib_libvtkFiltersGeometry_6_1_so_1 : 23.30755695304379
+t7596_lib_libvtkRenderingCore_6_1_so : 56.29979924342076
+t8568_lib_libvtkRenderingFreeType_6_1_so : 76.6231615886568
+t8569_lib_libvtkRenderingFreeType_6_1_so_1 : 89.96842539841975
+t7597_lib_libvtkRenderingCore_6_1_so_1 : 132.11717469040178
+

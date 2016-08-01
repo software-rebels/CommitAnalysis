@@ -1,0 +1,9 @@
+Commit:35f01d9
+Date:Fri Sep 27 16:18:20 2013 -0400
+The target Rendering/Core/vtkTextMapper.cxx has the following dependencies: 
+t8027_Rendering_Core_CMakeFiles_vtkRenderingCore_dir_vtkTextMapper_cxx_o : 0.5941944071679365
+t7513_lib_libvtkRenderingCore_6_1_so : 56.01519273194197
+t8485_lib_libvtkRenderingFreeType_6_1_so : 76.36350055865385
+t8486_lib_libvtkRenderingFreeType_6_1_so_1 : 89.6629418337104
+t7514_lib_libvtkRenderingCore_6_1_so_1 : 131.4475123104517
+

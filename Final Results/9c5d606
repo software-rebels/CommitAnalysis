@@ -1,0 +1,28 @@
+Commit:9c5d606
+Date:Tue Nov 26 11:12:10 2013 -0500
+The target Rendering/Context2D/vtkTooltipItem.cxx has the following dependencies: 
+t9591_Rendering_Context2D_CMakeFiles_vtkRenderingContext2D_dir_vtkTooltipItem_cxx_o : 0.38901384929175337
+t9505_lib_libvtkRenderingContext2D_7_1_so : 0.9948568315244968
+t11160_lib_libvtkRenderingContextOpenGL2_7_1_so : 1.2863727539538554
+t13359_lib_libvtkViewsContext2D_7_1_so : 2.615350574489945
+t9604_lib_libvtkChartsCore_7_1_so : 4.86710284650653
+t11161_lib_libvtkRenderingContextOpenGL2_7_1_so_1 : 8.02145473379192
+t9506_lib_libvtkRenderingContext2D_7_1_so_1 : 9.939492135582315
+t13360_lib_libvtkViewsContext2D_7_1_so_1 : 14.50206220288203
+t21717_lib_libvtkViewsInfovis_7_1_so : 16.967541357495474
+t21009_bin_vtkRenderingContext2DCxxTests : 20.32305270255654
+t9605_lib_libvtkChartsCore_7_1_so_1 : 22.198131042383668
+t19448_bin_vtkIOImageCxxTests : 23.34463024195602
+t21262_bin_vtkRenderingFreeTypeCxxTests : 23.867074663143367
+t21718_lib_libvtkViewsInfovis_7_1_so_1 : 39.57068554704818
+t13380_bin_vtkChartsCoreCxxTests : 53.14463308734408
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+
+The target Views/Infovis/vtkDendrogramItem.cxx has the following dependencies: 
+t21729_Views_Infovis_CMakeFiles_vtkViewsInfovis_dir_vtkDendrogramItem_cxx_o : 0.5689078855940718
+t21717_lib_libvtkViewsInfovis_7_1_so : 16.967541357495474
+t21718_lib_libvtkViewsInfovis_7_1_so_1 : 39.57068554704818
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+

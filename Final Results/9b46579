@@ -1,0 +1,17 @@
+Commit:9b46579
+Date:Thu Aug 8 10:50:03 2013 -0600
+The target Filters/General/vtkClipClosedSurface.cxx has the following dependencies: 
+t6142_Filters_General_CMakeFiles_vtkFiltersGeneral_dir_vtkClipClosedSurface_cxx_o : 0.6501321543801759
+t6090_lib_libvtkFiltersGeneral_6_1_so : 8.51537986436421
+t6855_lib_libvtkFiltersExtraction_6_1_so : 9.409169777905868
+t7252_lib_libvtkFiltersSources_6_1_so : 10.382482831817748
+t7253_lib_libvtkFiltersSources_6_1_so_1 : 36.11464528876852
+t6856_lib_libvtkFiltersExtraction_6_1_so_1 : 43.57256366073349
+t6980_lib_libvtkInfovisCore_6_1_so : 51.151623430682974
+t8302_lib_libvtkRenderingCore_6_1_so : 57.920773847027014
+t6091_lib_libvtkFiltersGeneral_6_1_so_1 : 59.04974021904148
+t6981_lib_libvtkInfovisCore_6_1_so_1 : 60.00190991845056
+t8303_lib_libvtkRenderingCore_6_1_so_1 : 135.93123258124004
+t9249_lib_libvtkRenderingFreeType_6_1_so : 137.51772353097203
+t9250_lib_libvtkRenderingFreeType_6_1_so_1 : 161.60908650702592
+

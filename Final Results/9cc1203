@@ -1,0 +1,21 @@
+Commit:9cc1203
+Date:Fri Oct 18 08:23:01 2013 -0400
+The target Filters/Core/vtkSynchronizedTemplates3D.cxx has the following dependencies: 
+t6049_Filters_Core_CMakeFiles_vtkFiltersCore_dir_vtkSynchronizedTemplates3D_cxx_o : 0.4686965837404029
+t5826_lib_libvtkFiltersCore_6_1_so : 5.06086686882581
+t7293_lib_libvtkFiltersGeometry_6_1_so : 10.002895391218553
+t6224_lib_libvtkFiltersGeneral_6_1_so : 10.457308491888988
+t6989_lib_libvtkFiltersExtraction_6_1_so : 14.167494661741326
+t7390_lib_libvtkFiltersSources_6_1_so : 16.937822459140094
+t7294_lib_libvtkFiltersGeometry_6_1_so_1 : 23.18328327345542
+t7391_lib_libvtkFiltersSources_6_1_so_1 : 39.50075872738846
+t5827_lib_libvtkFiltersCore_6_1_so_1 : 40.44243303738902
+t6990_lib_libvtkFiltersExtraction_6_1_so_1 : 49.47351057085174
+t7531_lib_libvtkRenderingCore_6_1_so : 56.07049603254394
+t7114_lib_libvtkInfovisCore_6_1_so : 60.53067622385261
+t6225_lib_libvtkFiltersGeneral_6_1_so_1 : 60.631226422876395
+t7115_lib_libvtkInfovisCore_6_1_so_1 : 71.03608967512072
+t8503_lib_libvtkRenderingFreeType_6_1_so : 76.41772902275942
+t8504_lib_libvtkRenderingFreeType_6_1_so_1 : 89.72674002677577
+t7532_lib_libvtkRenderingCore_6_1_so_1 : 131.57763772363282
+

@@ -1,0 +1,13 @@
+Commit:9aadfc9
+Date:Fri Aug 9 12:23:28 2013 -0400
+The target IO/Image/vtkMedicalImageProperties.cxx has the following dependencies: 
+t8184_IO_Image_CMakeFiles_vtkIOImage_dir_vtkMedicalImageProperties_cxx_o : 0.4125719100053064
+t8113_lib_libvtkIOImage_6_1_so : 9.709428304787272
+t9377_lib_libvtkImagingHybrid_6_1_so : 23.900420141775502
+t9378_lib_libvtkImagingHybrid_6_1_so_1 : 27.941670755030003
+t8114_lib_libvtkIOImage_6_1_so_1 : 44.985544963704804
+t8336_lib_libvtkRenderingCore_6_1_so : 55.431817620477034
+t8337_lib_libvtkRenderingCore_6_1_so_1 : 130.07486498935774
+t9283_lib_libvtkRenderingFreeType_6_1_so : 130.31417236970393
+t9284_lib_libvtkRenderingFreeType_6_1_so_1 : 153.1343204349458
+

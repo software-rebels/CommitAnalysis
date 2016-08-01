@@ -1,0 +1,21 @@
+Commit:01b4db0
+Date:Thu May 16 17:07:57 2013 -0600
+The target Filters/Core/vtkTubeFilter.cxx has the following dependencies: 
+t2155_Filters_Core_CMakeFiles_vtkFiltersCore_dir_vtkTubeFilter_cxx_o : 0.5104529767621714
+t1910_lib_libvtkFiltersCore_6_0_so : 4.387236518224509
+t3373_lib_libvtkFiltersGeometry_6_0_so : 6.397518293740395
+t2308_lib_libvtkFiltersGeneral_6_0_so : 8.51262039279272
+t3073_lib_libvtkFiltersExtraction_6_0_so : 9.41018639626595
+t3470_lib_libvtkFiltersSources_6_0_so : 10.382010171633967
+t3374_lib_libvtkFiltersGeometry_6_0_so_1 : 22.050064566142574
+t3471_lib_libvtkFiltersSources_6_0_so_1 : 36.11297707635518
+t1911_lib_libvtkFiltersCore_6_0_so_1 : 39.87987311270126
+t3074_lib_libvtkFiltersExtraction_6_0_so_1 : 43.57734774713388
+t3198_lib_libvtkInfovisCore_6_0_so : 51.152027377216776
+t4520_lib_libvtkRenderingCore_6_0_so : 57.92171862243204
+t2309_lib_libvtkFiltersGeneral_6_0_so_1 : 59.030261596183905
+t3199_lib_libvtkInfovisCore_6_0_so_1 : 60.0023851496668
+t4521_lib_libvtkRenderingCore_6_0_so_1 : 135.93345558219303
+t5467_lib_libvtkRenderingFreeType_6_0_so : 137.51969684878588
+t5468_lib_libvtkRenderingFreeType_6_0_so_1 : 161.61140805739515
+

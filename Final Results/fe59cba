@@ -1,0 +1,9 @@
+Commit:fe59cba
+Date:Mon Oct 28 15:45:08 2013 -0400
+The target Views/Infovis/vtkDendrogramItem.cxx has the following dependencies: 
+t21729_Views_Infovis_CMakeFiles_vtkViewsInfovis_dir_vtkDendrogramItem_cxx_o : 0.5689078855940718
+t21717_lib_libvtkViewsInfovis_7_1_so : 16.967541357495474
+t21718_lib_libvtkViewsInfovis_7_1_so_1 : 39.57068554704818
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+

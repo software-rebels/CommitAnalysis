@@ -1,0 +1,7 @@
+Commit:8a4c60b
+Date:Wed Aug 21 15:59:34 2013 -0400
+The target Infovis/Core/vtkPruneTreeFilter.cxx has the following dependencies: 
+t7076_Infovis_Core_CMakeFiles_vtkInfovisCore_dir_vtkPruneTreeFilter_cxx_o : 0.6165616215927469
+t6990_lib_libvtkInfovisCore_6_1_so : 50.95000751486211
+t6991_lib_libvtkInfovisCore_6_1_so_1 : 59.76471472336719
+

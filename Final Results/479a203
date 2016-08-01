@@ -1,0 +1,52 @@
+Commit:479a203
+Date:Tue Sep 3 16:38:09 2013 -0400
+The target Filters/Modeling/vtkSelectPolyData.cxx has the following dependencies: 
+t12064_lib_libvtkFiltersModeling_7_1_so : 0.4337400561761734
+t12141_Filters_Modeling_CMakeFiles_vtkFiltersModeling_dir_vtkSelectPolyData_cxx_o : 0.5028022675716489
+t20525_lib_libvtkRenderingLOD_7_1_so : 0.9846413849060677
+t13322_lib_libvtkViewsCore_7_1_so : 1.6068503190146712
+t19419_lib_libvtkInteractionImage_7_1_so : 2.4623582858223925
+t13359_lib_libvtkViewsContext2D_7_1_so : 2.615350574489945
+t16735_lib_libvtkFiltersParallel_7_1_so : 2.664025204104485
+t18282_lib_libvtkInfovisLayout_7_1_so : 2.7356651060562087
+t12757_lib_libvtkInteractionWidgets_7_1_so : 3.7648527683808153
+t20526_lib_libvtkRenderingLOD_7_1_so_1 : 3.927724164263848
+t17958_lib_libvtkIOParallel_7_1_so : 4.763479250998257
+t21391_bin_vtkRenderingLODCxxTests : 7.608597419295298
+t16700_bin_vtkFiltersModelingCxxTests : 9.850356005824274
+t16896_lib_libvtkFiltersParallelImaging_7_1_so : 9.85805005126773
+t12065_lib_libvtkFiltersModeling_7_1_so_1 : 11.349602247046935
+t16897_lib_libvtkFiltersParallelImaging_7_1_so_1 : 11.421235354432623
+t21332_bin_vtkRenderingImageCxxTests : 12.387288854669107
+t19420_lib_libvtkInteractionImage_7_1_so_1 : 13.602107563661132
+t13323_lib_libvtkViewsCore_7_1_so_1 : 13.711532414255728
+t13360_lib_libvtkViewsContext2D_7_1_so_1 : 14.50206220288203
+t21717_lib_libvtkViewsInfovis_7_1_so : 16.967541357495474
+t16352_bin_vtkFiltersGenericCxxTests : 18.01141061677244
+t20399_bin_vtkImagingMorphologicalCxxTests : 19.446071043876152
+t19551_bin_vtkIOInfovisCxxTests : 19.513487529394254
+t21009_bin_vtkRenderingContext2DCxxTests : 20.32305270255654
+t16736_lib_libvtkFiltersParallel_7_1_so_1 : 20.703736974978113
+t20496_bin_vtkInfovisLayoutCxxTests : 20.764672539541433
+t18283_lib_libvtkInfovisLayout_7_1_so_1 : 21.293712638109955
+t16593_bin_vtkFiltersHyperTreeCxxTests : 22.399413283425453
+t19448_bin_vtkIOImageCxxTests : 23.34463024195602
+t21262_bin_vtkRenderingFreeTypeCxxTests : 23.867074663143367
+t20416_bin_vtkInfovisCoreCxxTests : 24.211791898653985
+t17959_lib_libvtkIOParallel_7_1_so_1 : 27.138113241166216
+t16227_bin_vtkFiltersGeneralCxxTests : 27.164241235885854
+t20252_bin_vtkImagingCoreCxxTests : 28.065678565444262
+t21535_bin_vtkRenderingVolumeCxxTests : 31.032006083153338
+t14054_bin_vtkCommonDataModelCxxTests : 35.23348266529922
+t18012_bin_vtkFiltersSourcesCxxTests : 37.75959977410841
+t21718_lib_libvtkViewsInfovis_7_1_so_1 : 39.57068554704818
+t18956_lib_libvtkGeovisCore_7_1_so : 42.62536111911358
+t20883_bin_vtkRenderingAnnotationCxxTests : 44.04195950672797
+t18957_lib_libvtkGeovisCore_7_1_so_1 : 49.97101308131009
+t13380_bin_vtkChartsCoreCxxTests : 53.14463308734408
+t21026_bin_vtkRenderingCoreCxxTests : 55.98790500687413
+t12758_lib_libvtkInteractionWidgets_7_1_so_1 : 59.53875147921343
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+

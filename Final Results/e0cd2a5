@@ -1,0 +1,45 @@
+Commit:e0cd2a5
+Date:Wed Oct 9 09:46:27 2013 -0400
+The target Views/Infovis/vtkHeatmapItem.cxx has the following dependencies: 
+t21744_Views_Infovis_CMakeFiles_vtkViewsInfovis_dir_vtkHeatmapItem_cxx_o : 0.5408552827248665
+t21717_lib_libvtkViewsInfovis_7_1_so : 16.967541357495474
+t21718_lib_libvtkViewsInfovis_7_1_so_1 : 39.57068554704818
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+
+The target Views/Infovis/vtkHeatmapItem.h has the following dependencies: 
+t21858_Views_Infovis_Testing_Cxx_CMakeFiles_vtkViewsInfovisCxxTests_dir_TestHeatmapCategoryLegend_cxx_o : 0.4161512750793012
+t21864_Views_Infovis_Testing_Cxx_CMakeFiles_vtkViewsInfovisCxxTests_dir_TestHeatmapScalarLegend_cxx_o : 0.4171007812407746
+t21861_Views_Infovis_Testing_Cxx_CMakeFiles_vtkViewsInfovisCxxTests_dir_TestHeatmapItem_cxx_o : 0.43286207028611895
+t21813_Views_Infovis_CMakeFiles_vtkViewsInfovis_dir_vtkTreeHeatmapItem_cxx_o : 0.45600090421238215
+t21744_Views_Infovis_CMakeFiles_vtkViewsInfovis_dir_vtkHeatmapItem_cxx_o : 0.5408552827248665
+t21717_lib_libvtkViewsInfovis_7_1_so : 16.967541357495474
+t21718_lib_libvtkViewsInfovis_7_1_so_1 : 39.57068554704818
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+
+The target Charts/Core/vtkColorLegend.h has the following dependencies: 
+t9673_Charts_Core_CMakeFiles_vtkChartsCore_dir_vtkColorLegend_cxx_o : 0.425315552100355
+t21744_Views_Infovis_CMakeFiles_vtkViewsInfovis_dir_vtkHeatmapItem_cxx_o : 0.5408552827248665
+t9633_Charts_Core_CMakeFiles_vtkChartsCore_dir_vtkChartHistogram2D_cxx_o : 0.5428004865274647
+t21729_Views_Infovis_CMakeFiles_vtkViewsInfovis_dir_vtkDendrogramItem_cxx_o : 0.5689078855940718
+t9604_lib_libvtkChartsCore_7_1_so : 4.86710284650653
+t21717_lib_libvtkViewsInfovis_7_1_so : 16.967541357495474
+t9605_lib_libvtkChartsCore_7_1_so_1 : 22.198131042383668
+t21718_lib_libvtkViewsInfovis_7_1_so_1 : 39.57068554704818
+t13380_bin_vtkChartsCoreCxxTests : 53.14463308734408
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+
+The target Views/Infovis/module.cmake could not be found.
+
+The target Charts/Core/vtkColorLegend.cxx has the following dependencies: 
+t9673_Charts_Core_CMakeFiles_vtkChartsCore_dir_vtkColorLegend_cxx_o : 0.425315552100355
+t9604_lib_libvtkChartsCore_7_1_so : 4.86710284650653
+t21717_lib_libvtkViewsInfovis_7_1_so : 16.967541357495474
+t9605_lib_libvtkChartsCore_7_1_so_1 : 22.198131042383668
+t21718_lib_libvtkViewsInfovis_7_1_so_1 : 39.57068554704818
+t13380_bin_vtkChartsCoreCxxTests : 53.14463308734408
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+

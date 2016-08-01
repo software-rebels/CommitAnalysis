@@ -1,0 +1,31 @@
+Commit:dcaed73
+Date:Thu Oct 31 11:38:57 2013 -0400
+The target Views/Infovis/vtkDendrogramItem.h has the following dependencies: 
+t21852_Views_Infovis_Testing_Cxx_CMakeFiles_vtkViewsInfovisCxxTests_dir_TestDendrogramItem_cxx_o : 0.4389643903306796
+t21813_Views_Infovis_CMakeFiles_vtkViewsInfovis_dir_vtkTreeHeatmapItem_cxx_o : 0.45600090421238215
+t21894_Views_Infovis_Testing_Cxx_CMakeFiles_vtkViewsInfovisCxxTests_dir_TestTreeHeatmapAutoCollapse_cxx_o : 0.47143518472320317
+t21806_Views_Infovis_CMakeFiles_vtkViewsInfovis_dir_vtkTanglegramItem_cxx_o : 0.543250056667112
+t21729_Views_Infovis_CMakeFiles_vtkViewsInfovis_dir_vtkDendrogramItem_cxx_o : 0.5689078855940718
+t21717_lib_libvtkViewsInfovis_7_1_so : 16.967541357495474
+t21718_lib_libvtkViewsInfovis_7_1_so_1 : 39.57068554704818
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+
+The target Views/Infovis/Testing/Cxx/TestTreeHeatmapAutoCollapse.cxx has the following dependencies: 
+t21894_Views_Infovis_Testing_Cxx_CMakeFiles_vtkViewsInfovisCxxTests_dir_TestTreeHeatmapAutoCollapse_cxx_o : 0.47143518472320317
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+
+The target Views/Infovis/vtkDendrogramItem.cxx has the following dependencies: 
+t21729_Views_Infovis_CMakeFiles_vtkViewsInfovis_dir_vtkDendrogramItem_cxx_o : 0.5689078855940718
+t21717_lib_libvtkViewsInfovis_7_1_so : 16.967541357495474
+t21718_lib_libvtkViewsInfovis_7_1_so_1 : 39.57068554704818
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+
+The target Views/Infovis/Testing/Data/Baseline/TestColumnTree.png.md5 has the following dependencies: 
+t4385__home_owais_Desktop_Build2_ExternalData_Views_Infovis_Testing_Data_Baseline_TestColumnTree_png : 0.2599503162528011
+t4383_ExternalData_Views_Infovis_Testing_Data_Baseline_TestColumnTree_png_md5_stamp : 0.3880599397157685
+t14_CMakeFiles_VTKData : 164.24328225091895
+
+

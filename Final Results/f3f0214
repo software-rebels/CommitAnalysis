@@ -1,0 +1,58 @@
+Commit:f3f0214
+Date:Fri Oct 11 11:52:03 2013 -0400
+The target IO/Legacy/vtkDataWriter.cxx has the following dependencies: 
+t9897_lib_libvtkIOLegacy_7_1_so : 0.3994738194881596
+t14628_lib_libvtkParallelCore_7_1_so : 0.4787122918353384
+t9943_IO_Legacy_CMakeFiles_vtkIOLegacy_dir_vtkDataWriter_cxx_o : 0.5634586029026026
+t14696_lib_libvtkFiltersAMR_7_1_so : 0.7719076140749287
+t10591_lib_libvtkIOInfovis_7_1_so : 2.1061834075302337
+t16735_lib_libvtkFiltersParallel_7_1_so : 2.664025204104485
+t15655_lib_libvtkIOAMR_7_1_so : 2.709238293035879
+t19910_lib_libvtkIOParallelXML_7_1_so : 3.5798870058270382
+t17958_lib_libvtkIOParallel_7_1_so : 4.763479250998257
+t18265_bin_vtkFiltersVerdictCxxTests : 5.2644043591278455
+t14282_bin_vtkCommonExecutionModelCxxTests : 5.717641210979122
+t14697_lib_libvtkFiltersAMR_7_1_so_1 : 5.853248132469917
+t20871_bin_vtkParallelCore_TestSocketCommunicator : 5.8543065824892215
+t20855_bin_vtkParallelCoreCxxTests : 6.3677161701628435
+t20065_bin_vtkIOSQLCxxTests : 6.481446109827511
+t14629_lib_libvtkParallelCore_7_1_so_1 : 7.347686523378153
+t19911_lib_libvtkIOParallelXML_7_1_so_1 : 8.070322366651855
+t19639_bin_vtkIOLegacyCxxTests : 8.360283439968532
+t15939_bin_vtkFiltersExtractionCxxTests : 8.585912432709662
+t16896_lib_libvtkFiltersParallelImaging_7_1_so : 9.85805005126773
+t16897_lib_libvtkFiltersParallelImaging_7_1_so_1 : 11.421235354432623
+t17164_bin_vtkFiltersSelectionCxxTests : 11.435492696539221
+t15656_lib_libvtkIOAMR_7_1_so_1 : 12.043474320168844
+t16487_bin_vtkFiltersHybridCxxTests : 12.264692225132874
+t9898_lib_libvtkIOLegacy_7_1_so_1 : 12.620440279989248
+t16075_bin_vtkFiltersFlowPathsCxxTests : 12.68226202549646
+t17006_bin_vtkFiltersPointsCxxTests : 13.361729433156885
+t10592_lib_libvtkIOInfovis_7_1_so_1 : 13.808353464919296
+t19078_bin_vtkIOAMRCxxTests : 13.96032029589155
+t15705_bin_vtkFiltersAMRCxxTests : 14.22291015150435
+t14520_bin_vtkDomainsChemistryCxxTests : 17.683251680517134
+t16352_bin_vtkFiltersGenericCxxTests : 18.01141061677244
+t21443_bin_vtkRenderingOpenGL2CxxTests : 18.561763356281627
+t20139_bin_vtkIOXMLCxxTests : 18.989885028091237
+t19551_bin_vtkIOInfovisCxxTests : 19.513487529394254
+t16736_lib_libvtkFiltersParallel_7_1_so_1 : 20.703736974978113
+t20496_bin_vtkInfovisLayoutCxxTests : 20.764672539541433
+t19354_bin_vtkIOGeometryCxxTests : 20.77067865338692
+t16593_bin_vtkFiltersHyperTreeCxxTests : 22.399413283425453
+t19448_bin_vtkIOImageCxxTests : 23.34463024195602
+t15799_bin_vtkFiltersCoreCxxTests : 23.9656006662825
+t20416_bin_vtkInfovisCoreCxxTests : 24.211791898653985
+t17959_lib_libvtkIOParallel_7_1_so_1 : 27.138113241166216
+t16227_bin_vtkFiltersGeneralCxxTests : 27.164241235885854
+t20252_bin_vtkImagingCoreCxxTests : 28.065678565444262
+t21535_bin_vtkRenderingVolumeCxxTests : 31.032006083153338
+t14054_bin_vtkCommonDataModelCxxTests : 35.23348266529922
+t18012_bin_vtkFiltersSourcesCxxTests : 37.75959977410841
+t20883_bin_vtkRenderingAnnotationCxxTests : 44.04195950672797
+t13380_bin_vtkChartsCoreCxxTests : 53.14463308734408
+t21026_bin_vtkRenderingCoreCxxTests : 55.98790500687413
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+t20546_bin_vtkInteractionWidgetsCxxTests : 85.60728281870834
+
+

@@ -1,0 +1,15 @@
+Commit:84b1bec
+Date:Sun Aug 18 00:19:24 2013 -0400
+The target Utilities/DICOMParser/DICOMAppHelper.cxx has the following dependencies: 
+t7409_Utilities_DICOMParser_CMakeFiles_vtkDICOMParser_dir_DICOMAppHelper_cxx_o : 0.6878969549867607
+t7393_lib_libvtkDICOMParser_6_1_so : 0.989061449966902
+t7394_lib_libvtkDICOMParser_6_1_so_1 : 1.97426223521624
+t8079_lib_libvtkIOImage_6_1_so : 9.698186683270604
+t9343_lib_libvtkImagingHybrid_6_1_so : 23.84312256622259
+t9344_lib_libvtkImagingHybrid_6_1_so_1 : 27.874261842614814
+t8080_lib_libvtkIOImage_6_1_so_1 : 44.93264321539108
+t8302_lib_libvtkRenderingCore_6_1_so : 55.35548439514359
+t8303_lib_libvtkRenderingCore_6_1_so_1 : 129.89525740033787
+t9249_lib_libvtkRenderingFreeType_6_1_so : 130.1050215754865
+t9250_lib_libvtkRenderingFreeType_6_1_so_1 : 152.88826067704292
+

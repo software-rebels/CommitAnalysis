@@ -1,0 +1,21 @@
+Commit:64bce42
+Date:Tue Dec 10 23:01:17 2013 -0600
+The target Filters/Core/vtkArrayCalculator.cxx has the following dependencies: 
+t5880_Filters_Core_CMakeFiles_vtkFiltersCore_dir_vtkArrayCalculator_cxx_o : 0.48123413487782657
+t5864_lib_libvtkFiltersCore_6_1_so : 5.069812142390399
+t7335_lib_libvtkFiltersGeometry_6_1_so : 10.022723046573253
+t6262_lib_libvtkFiltersGeneral_6_1_so : 10.461634755771795
+t7031_lib_libvtkFiltersExtraction_6_1_so : 14.204272042928828
+t7432_lib_libvtkFiltersSources_6_1_so : 16.94532230126231
+t7336_lib_libvtkFiltersGeometry_6_1_so_1 : 23.22993658017236
+t7433_lib_libvtkFiltersSources_6_1_so_1 : 39.51840541473485
+t5865_lib_libvtkFiltersCore_6_1_so_1 : 40.51609999615622
+t7032_lib_libvtkFiltersExtraction_6_1_so_1 : 49.60331309268998
+t7573_lib_libvtkRenderingCore_6_1_so : 56.21562746181824
+t6263_lib_libvtkFiltersGeneral_6_1_so_1 : 60.65667503395174
+t7156_lib_libvtkInfovisCore_6_1_so : 60.72288095812434
+t7157_lib_libvtkInfovisCore_6_1_so_1 : 71.26221289191099
+t8545_lib_libvtkRenderingFreeType_6_1_so : 76.53624809628548
+t8546_lib_libvtkRenderingFreeType_6_1_so_1 : 89.86617423092409
+t7574_lib_libvtkRenderingCore_6_1_so_1 : 131.91912343957233
+

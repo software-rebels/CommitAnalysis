@@ -1,0 +1,51 @@
+Commit:4aeec36
+Date:Wed Dec 18 08:08:24 2013 -0500
+The target Common/Core/vtkDataArray.cxx has the following dependencies: 
+t4685_lib_libvtkCommonMisc_6_1_so : 0.33284308404980983
+t4718_lib_libvtkCommonSystem_6_1_so : 0.41059050922010987
+t4625_lib_libvtkCommonMath_6_1_so : 0.41911430513400244
+t4235_Common_Core_CMakeFiles_vtkCommonCore_dir_vtkDataArray_cxx_o : 0.48276355179653707
+t4759_lib_libvtkCommonTransforms_6_1_so : 0.5338316871533271
+t5644_lib_libvtkCommonExecutionModel_6_1_so : 1.7252991496042314
+t4044_lib_libvtkCommonCore_6_1_so : 1.8570412810224854
+t6200_lib_libvtkCommonComputationalGeometry_6_1_so : 2.1629414596434766
+t6875_lib_libvtkImagingFourier_6_1_so : 2.9294108023245693
+t6700_lib_libvtkImagingCore_6_1_so : 3.224644797993199
+t4836_lib_libvtkCommonDataModel_6_1_so : 3.7266319907750094
+t4686_lib_libvtkCommonMisc_6_1_so_1 : 4.0870807022898665
+t6973_lib_libvtkFiltersStatistics_6_1_so : 4.990131330577536
+t5883_lib_libvtkFiltersCore_6_1_so : 5.131078054394263
+t8691_lib_libvtkIOCore_6_1_so : 5.7534838615677915
+t4719_lib_libvtkCommonSystem_6_1_so_1 : 5.8249643237436315
+t4626_lib_libvtkCommonMath_6_1_so_1 : 6.648706362134177
+t5622_lib_libvtkCommonColor_6_1_so : 6.813613161576232
+t5623_lib_libvtkCommonColor_6_1_so_1 : 7.839544895972037
+t4760_lib_libvtkCommonTransforms_6_1_so_1 : 8.57976712460378
+t7358_lib_libvtkFiltersGeometry_6_1_so : 10.055711705043606
+t6285_lib_libvtkFiltersGeneral_6_1_so : 10.401735537090778
+t6201_lib_libvtkCommonComputationalGeometry_6_1_so_1 : 14.208998538659836
+t7054_lib_libvtkFiltersExtraction_6_1_so : 14.236623400900536
+t6876_lib_libvtkImagingFourier_6_1_so_1 : 16.349475307791586
+t7455_lib_libvtkFiltersSources_6_1_so : 16.954213422890906
+t8692_lib_libvtkIOCore_6_1_so_1 : 19.777001864356908
+t9291_lib_libvtkIOImage_6_1_so : 20.924598446607355
+t6974_lib_libvtkFiltersStatistics_6_1_so_1 : 22.77708861448252
+t7359_lib_libvtkFiltersGeometry_6_1_so_1 : 23.30755695304378
+t6701_lib_libvtkImagingCore_6_1_so_1 : 25.320604218767524
+t5645_lib_libvtkCommonExecutionModel_6_1_so_1 : 27.799396757721734
+t9426_lib_libvtkImagingHybrid_6_1_so : 36.84153120268218
+t7456_lib_libvtkFiltersSources_6_1_so_1 : 39.53932570091978
+t5884_lib_libvtkFiltersCore_6_1_so_1 : 41.02064280089393
+t9427_lib_libvtkImagingHybrid_6_1_so_1 : 43.16650729727315
+t4045_lib_libvtkCommonCore_6_1_so_1 : 46.19052878060844
+t9292_lib_libvtkIOImage_6_1_so_1 : 48.88140810966437
+t7055_lib_libvtkFiltersExtraction_6_1_so_1 : 49.71749435611954
+t7596_lib_libvtkRenderingCore_6_1_so : 56.29979924342079
+t6286_lib_libvtkFiltersGeneral_6_1_so_1 : 60.30432668876929
+t7179_lib_libvtkInfovisCore_6_1_so : 60.833450207750275
+t7180_lib_libvtkInfovisCore_6_1_so_1 : 71.39229436205915
+t4837_lib_libvtkCommonDataModel_6_1_so_1 : 75.74044215758845
+t8568_lib_libvtkRenderingFreeType_6_1_so : 76.62316158865683
+t8569_lib_libvtkRenderingFreeType_6_1_so_1 : 89.9684253984198
+t7597_lib_libvtkRenderingCore_6_1_so_1 : 132.11717469040187
+

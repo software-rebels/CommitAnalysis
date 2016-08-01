@@ -1,0 +1,32 @@
+Commit:2b8e685
+Date:Tue Oct 1 01:15:31 2013 -0400
+The target IO/Infovis/Testing/Cxx/TestNewickTreeReader.cxx has the following dependencies: 
+t19571_IO_Infovis_Testing_Cxx_CMakeFiles_vtkIOInfovisCxxTests_dir_TestNewickTreeReader_cxx_o : 0.3967020346424741
+t19551_bin_vtkIOInfovisCxxTests : 19.513487529394254
+
+
+The target IO/Infovis/vtkNewickTreeReader.cxx has the following dependencies: 
+t10628_IO_Infovis_CMakeFiles_vtkIOInfovis_dir_vtkNewickTreeReader_cxx_o : 0.41941514822457776
+t10591_lib_libvtkIOInfovis_7_1_so : 2.1061834075302337
+t10592_lib_libvtkIOInfovis_7_1_so_1 : 13.808353464919296
+t19551_bin_vtkIOInfovisCxxTests : 19.513487529394254
+t20496_bin_vtkInfovisLayoutCxxTests : 20.764672539541433
+t20416_bin_vtkInfovisCoreCxxTests : 24.211791898653985
+t13380_bin_vtkChartsCoreCxxTests : 53.14463308734408
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+
+The target IO/Infovis/vtkNewickTreeReader.h has the following dependencies: 
+t19571_IO_Infovis_Testing_Cxx_CMakeFiles_vtkIOInfovisCxxTests_dir_TestNewickTreeReader_cxx_o : 0.3967020346424741
+t10628_IO_Infovis_CMakeFiles_vtkIOInfovis_dir_vtkNewickTreeReader_cxx_o : 0.41941514822457776
+t19574_IO_Infovis_Testing_Cxx_CMakeFiles_vtkIOInfovisCxxTests_dir_TestNewickTreeWriter_cxx_o : 0.4670925295521179
+t10623_IO_Infovis_CMakeFiles_vtkIOInfovis_dir_vtkMultiNewickTreeReader_cxx_o : 0.4709655105252962
+t10591_lib_libvtkIOInfovis_7_1_so : 2.1061834075302337
+t10592_lib_libvtkIOInfovis_7_1_so_1 : 13.808353464919296
+t19551_bin_vtkIOInfovisCxxTests : 19.513487529394254
+t20496_bin_vtkInfovisLayoutCxxTests : 20.764672539541433
+t20416_bin_vtkInfovisCoreCxxTests : 24.211791898653985
+t13380_bin_vtkChartsCoreCxxTests : 53.14463308734408
+t21838_bin_vtkViewsInfovisCxxTests : 63.105015063908986
+
+

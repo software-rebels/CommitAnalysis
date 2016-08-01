@@ -1,0 +1,9 @@
+Commit:25f9179
+Date:Thu Oct 17 12:49:39 2013 -0400
+The target Rendering/Core/vtkLightActor.cxx has the following dependencies: 
+t7778_Rendering_Core_CMakeFiles_vtkRenderingCore_dir_vtkLightActor_cxx_o : 0.6586625871512853
+t7531_lib_libvtkRenderingCore_6_1_so : 56.07049603254394
+t8503_lib_libvtkRenderingFreeType_6_1_so : 76.41772902275942
+t8504_lib_libvtkRenderingFreeType_6_1_so_1 : 89.72674002677577
+t7532_lib_libvtkRenderingCore_6_1_so_1 : 131.57763772363282
+

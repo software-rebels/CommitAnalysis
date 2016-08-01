@@ -1,0 +1,15 @@
+Commit:1942e91
+Date:Fri Dec 13 16:21:32 2013 -0500
+The target Filters/Statistics/vtkHighestDensityRegionsStatistics.cxx has the following dependencies: 
+t6998_Filters_Statistics_CMakeFiles_vtkFiltersStatistics_dir_vtkHighestDensityRegionsStatistics_cxx_o : 0.5751447366802315
+t6971_lib_libvtkFiltersStatistics_6_1_so : 4.9900287659836335
+t7052_lib_libvtkFiltersExtraction_6_1_so : 14.256266522286653
+t6972_lib_libvtkFiltersStatistics_6_1_so_1 : 22.77660595757004
+t7053_lib_libvtkFiltersExtraction_6_1_so_1 : 49.786823019835246
+t7594_lib_libvtkRenderingCore_6_1_so : 56.34738942242273
+t7177_lib_libvtkInfovisCore_6_1_so : 60.90904963353551
+t7178_lib_libvtkInfovisCore_6_1_so_1 : 71.48123486298296
+t8566_lib_libvtkRenderingFreeType_6_1_so : 76.66330712988739
+t8567_lib_libvtkRenderingFreeType_6_1_so_1 : 90.01565544692633
+t7595_lib_libvtkRenderingCore_6_1_so_1 : 132.22915158217114
+

@@ -1,0 +1,7 @@
+Commit:e86c7af
+Date:Tue Nov 5 11:59:08 2013 -0500
+The target Infovis/Core/vtkReduceTable.cxx has the following dependencies: 
+t7188_Infovis_Core_CMakeFiles_vtkInfovisCore_dir_vtkReduceTable_cxx_o : 0.49188257112675815
+t7094_lib_libvtkInfovisCore_6_1_so : 60.33569796659158
+t7095_lib_libvtkInfovisCore_6_1_so_1 : 70.80670349010775
+

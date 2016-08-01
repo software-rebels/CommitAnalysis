@@ -1,0 +1,7 @@
+Commit:74e9e27
+Date:Thu Sep 12 09:05:14 2013 -0400
+The target Imaging/Core/Testing/Cxx/ImageBSplineCoefficients.cxx has the following dependencies: 
+t20269_Imaging_Core_Testing_Cxx_CMakeFiles_vtkImagingCoreCxxTests_dir_ImageBSplineCoefficients_cxx_o : 0.44668126420939097
+t20252_bin_vtkImagingCoreCxxTests : 28.065678565444262
+
+

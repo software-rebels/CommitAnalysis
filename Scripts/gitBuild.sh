@@ -1,8 +1,5 @@
 #!/bin/bash
 WORKINGDIR=$(pwd)
-export JAVA_HOME=/usr/lib/jvm/java-6-oracle/
-export MAKAO=~/makao/
-export GUESS_HOME=~/guess/
 
 if [ "$1" == "--help" ]; then
 	echo "First Argument gives the commit ID of the commit to revert to."

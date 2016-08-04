@@ -146,7 +146,7 @@ public class CommitAnalysis
 						this.graph.clear();
 						this.fileNames.clear();
 						System.out.println("Creating Graph");
-						this.createGraph("/home/owais/Desktop/WorkingOnSomething/Build/trace.gdf");
+						this.createGraph(this.traceGdfLocation);
 						System.out.println("Graph Created.");
 						System.out.println("Calculating Pageranks.");
 						this.pageRanks();
@@ -237,7 +237,7 @@ public class CommitAnalysis
 						this.graph.clear();
 						this.fileNames.clear();
 						System.out.println("Creating graph.");
-						this.createGraph("/home/owais/Desktop/WorkingOnSomething/Build/trace.gdf");
+						this.createGraph(this.traceGdfLocation);
 						System.out.println("Graph Created.");
 						System.out.println("Calculating page ranks");
 						this.pageRanks();

@@ -14,7 +14,6 @@ This repository contains the code that cycles over commits within a given range,
     1.JAVA_HOME=/location_of_java6_folder/
     2.MAKAO=/location_of_makao_folder/
     3.GUESS_HOME=/location_of_guess_folder/
-
 8. Run the command javac *.java
 9. Run the command java CommitAnalysis
 

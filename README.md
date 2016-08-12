@@ -17,3 +17,13 @@ This repository contains the code that cycles over commits within a given range,
 
 8. Run the command javac *.java
 9. Run the command java CommitAnalysis
+
+# Notes
+1. This tool utilises the trace.gdf file produced by MAKAO to create a graph using HashMaps which can then easily be used to calculate pageranks and also to trace down all intermediate and deliverable files affected by a changing a particular file.
+2. The output can be of three types: 
+    1. If only source code files are changed then the output text file will contain the names of the targets modified during that commit followed by all the files that were impacted along with their pageranks.
+    2. If only build files were changed the tool will reset the build of the software to that configuration and the output text file will read that 'only build files were changed during this commit'
+    3. If both build and source files are changed the tool will reset the build to that configuration and the resulting text file will contain the names of the targets modified during that commit followed by all the files that were impacted along with their pageranks.
+3. During my research I analysed the open source software called VTK(Visualization Toolkit) on Ubuntu version 16.04. The build of the software system depends on the OS running on the machine. The results of this tool for a linux based machine can be found under the folder Linux. 
+4. It is recommended that the same analysis be carried out on an OS other than Linux. 
+5. Another suggested line of work would be to package these tools as a Gerrit plugin so that we can study change imapact at review time which will help improve our understanding of the same.

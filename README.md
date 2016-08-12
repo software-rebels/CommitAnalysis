@@ -27,3 +27,5 @@ This repository contains the code that cycles over commits within a given range,
 4. It is recommended that the same analysis be carried out on an OS other than Linux e.g on a MAC. The results from a MAC were obtained but due to a shortage of time could not be analysed graphically. They can be found here 
 https://www.dropbox.com/s/h9aq88z4utryuba/Results.zip?dl=0
 5. Another suggested line of work would be to package these tools as a Gerrit plugin so that we can study change imapact at review time which will help improve our understanding of the same.
+
+If you have any questions you can contact me by email at this address: owais.khan2@mail.mcgill.ca

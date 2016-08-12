@@ -11,9 +11,9 @@ This repository contains the code that cycles over commits within a given range,
 5. Using the terminal change directory to the cloned repository folder.
 6. To properly run MAKAO you need a working version of java 6. For instructions on how to install java 6 use Google.
 7. Then open a terminal session and export the following variables:
-    i) JAVA_HOME=/location_of_java6_folder/
-    ii) MAKAO=/location_of_makao_folder/
-    iii) GUESS_HOME=/location_of_guess_folder/
+    1.JAVA_HOME=/location_of_java6_folder/
+    2.MAKAO=/location_of_makao_folder/
+    3.GUESS_HOME=/location_of_guess_folder/
 
 8. Run the command javac *.java
 9. Run the command java CommitAnalysis

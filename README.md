@@ -1,6 +1,6 @@
 # CommitAnalysis
 
-This repository contains the code that cycles over commits within a given range, rebuilds the software and analyses the build dependencies.
+This repository contains the code that cycles over commits within a given range, rebuilds the software, calculates the pageranks and analyses the build dependencies.
 
 # How To Use:
 
